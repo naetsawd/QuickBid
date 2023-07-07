@@ -1,5 +1,6 @@
 # QuickBid
 ## Note
+Link: https://draco1876.pythonanywhere.com/
 This project was made before I learned how to use Git hence there isn't an extensive commit history.
 ## Introduction
 QuickBid is a simple auction site I worked on in an effort to learn how to use the Django framework and learn basic styling with CSS This post will cover learning outcomes from this project as well as features of the website minus some features such as categories, log in & register.
